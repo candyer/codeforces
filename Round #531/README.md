@@ -2,7 +2,7 @@
 
 
 # Codeforces Round #531 (Div. 3)   
-##A. Integer Sequence Dividing
+## A. Integer Sequence Dividing
 time limit per test1 second
 memory limit per test256 megabytes
 inputstandard input
@@ -19,17 +19,17 @@ Print one integer — the minimum possible value of |𝑠𝑢𝑚(𝐴)−𝑠�
 
 Examples  
 ```
-inputCopy     
+input     
 3   
-outputCopy  
+output  
 0  
-inputCopy   
+input   
 5  
-outputCopy  
+output  
 1  
-inputCopy  
+input  
 6  
-outputCopy  
+output  
 1  
 ```
 Note
@@ -66,22 +66,22 @@ If there is no answer, print "NO". Otherwise print "YES" and any coloring (i.e. 
 
 Examples  
 ```
-inputCopy  
+input  
 4 2  
 1 2 2 3  
-outputCopy  
+output  
 YES  
 1 1 2 2  
-inputCopy  
+input  
 5 2  
 3 2 1 2 3  
-outputCopy  
+output  
 YES  
 2 1 1 2 1  
-inputCopy  
+input  
 5 2  
 2 1 1 2 1  
-outputCopy  
+output  
 NO  
 ```
 Note
@@ -118,20 +118,20 @@ Print one integer — the number of doors with durability equal to 0 at the end 
 
 Examples  
 ```
-inputCopy  
+input  
 6 3 2  
 2 3 1 3 4 2  
-outputCopy  
+output  
 6  
-inputCopy  
+input  
 5 3 3  
 1 2 4 2 3  
-outputCopy  
+output  
 2  
-inputCopy  
+input  
 5 5 6  
 1 2 6 10 3  
-outputCopy  
+output  
 2  
 ```
 Note
@@ -165,25 +165,25 @@ Because 𝑛 is divisible by 3 it is obvious that the answer exists. And it is o
 
 Examples  
 ```
-inputCopy  
+input  
 3  
 121  
-outputCopy  
+output  
 021  
-inputCopy  
+input  
 6  
 000000  
-outputCopy  
+output  
 001122  
-inputCopy  
+input  
 6  
 211200  
-outputCopy  
+output  
 211200  
-inputCopy  
+input  
 6  
 120110  
-outputCopy  
+output  
 120120  
 ```
 
@@ -212,20 +212,20 @@ Print one integer — the number of different monotonic renumerations of 𝑎, t
 
 Examples   
 ```
-inputCopy  
+input  
 5  
 1 2 1 2 3  
-outputCopy  
+output  
 2  
-inputCopy  
+input  
 2  
 100 1  
-outputCopy  
+output  
 2  
-inputCopy  
+input  
 4  
 1 3 3 7  
-outputCopy  
+output  
 4  
 ```
 
@@ -253,21 +253,21 @@ Print a single integer 𝑘 — the maximum number such that there exists some o
 
 Examples  
 ```
-inputCopy  
+input  
 4 2  
 9 9  
 10 8  
 5 3  
 4 3  
-outputCopy  
+output  
 5  
-inputCopy  
+input  
 2 4  
 1 2 3 4  
 10 3 7 3  
-outputCopy  
+output  
 0  
-inputCopy  
+input  
 6 1  
 3  
 6  
@@ -275,7 +275,7 @@ inputCopy
 5  
 1  
 4  
-outputCopy  
+output  
 3  
 ```
 Note
